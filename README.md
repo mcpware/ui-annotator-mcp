@@ -13,6 +13,8 @@ An MCP server that adds interactive hover annotations to any web page. Open a pr
 
 ![Demo](docs/demo.gif)
 
+[![ui-annotator-mcp MCP server](https://glama.ai/mcp/servers/mcpware/ui-annotator-mcp/badges/card.svg)](https://glama.ai/mcp/servers/mcpware/ui-annotator-mcp)
+
 ## The Problem
 
 When reviewing a web UI with an AI coding assistant, the hardest part isn't the code change — it's **describing which element you want changed**.
